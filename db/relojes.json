@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "brand": "Rolex",
+        "description": "Rolex Submariner",
+        "price": 8000,
+        "thumbnail": "rolex_submariner.jpg",
+        "code": "RS001",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "brand": "Omega",
+        "description": "Omega Seamaster",
+        "price": 6500,
+        "thumbnail": "omega_seamaster.jpg",
+        "code": "OS002",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "brand": "TAG Heuer",
+        "description": "TAG Heuer Carrera",
+        "price": 5500,
+        "thumbnail": "tag_heuer_carrera.jpg",
+        "code": "THC003",
+        "stock": 12
+    },
+    {
+        "id": 4,
+        "brand": "Citizen",
+        "description": "Citizen Eco-Drive",
+        "price": 250,
+        "thumbnail": "citizen_eco_drive.jpg",
+        "code": "CED004",
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "brand": "Seiko",
+        "description": "Seiko Prospex",
+        "price": 300,
+        "thumbnail": "seiko_prospex.jpg",
+        "code": "SP005",
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "brand": "Patek Philippe",
+        "description": "Patek Philippe Calatrava",
+        "price": 25000,
+        "thumbnail": "patek_philippe_calatrava.jpg",
+        "code": "PPC006",
+        "stock": 5
+    },
+    {
+        "id": 7,
+        "brand": "Casio",
+        "description": "Casio G-Shock",
+        "price": 100,
+        "thumbnail": "casio_g_shock.jpg",
+        "code": "CG007",
+        "stock": 50
+    },
+    {
+        "id": 8,
+        "brand": "Fossil",
+        "description": "Fossil Grant",
+        "price": 150,
+        "thumbnail": "fossil_grant.jpg",
+        "code": "FG008",
+        "stock": 25
+    },
+    {
+        "id": 9,
+        "brand": "Bulova",
+        "description": "Bulova Precisionist",
+        "price": 350,
+        "thumbnail": "bulova_precisionist.jpg",
+        "code": "BP009",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "brand": "Longines",
+        "description": "Longines Master Collection",
+        "price": 4000,
+        "thumbnail": "longines_master_collection.jpg",
+        "code": "LMC010",
+        "stock": 8
+    },
+    {
+        "id": 11,
+        "brand": "Swatch",
+        "description": "Swatch Originals",
+        "price": 50,
+        "thumbnail": "swatch_originals.jpg",
+        "code": "SO011",
+        "stock": 40
+    },
+    {
+        "id": 12,
+        "brand": "Tissot",
+        "description": "Tissot Le Locle",
+        "price": 600,
+        "thumbnail": "tissot_le_locle.jpg",
+        "code": "TLL012",
+        "stock": 12
+    },
+    {
+        "id": 13,
+        "brand": "Hamilton",
+        "description": "Hamilton Khaki Field",
+        "price": 300,
+        "thumbnail": "hamilton_khaki_field.jpg",
+        "code": "HKF013",
+        "stock": 18
+    },
+    {
+        "id": 14,
+        "brand": "Panerai",
+        "description": "Panerai Luminor",
+        "price": 9000,
+        "thumbnail": "panerai_luminor.jpg",
+        "code": "PL014",
+        "stock": 6
+    },
+    {
+        "id": 15,
+        "brand": "IWC",
+        "description": "IWC Portugieser",
+        "price": 7500,
+        "thumbnail": "iwc_portugieser.jpg",
+        "code": "IWP015",
+        "stock": 8
+    },
+    {
+        "id": 16,
+        "brand": "Breitling",
+        "description": "Breitling Navitimer",
+        "price": 7000,
+        "thumbnail": "breitling_navitimer.jpg",
+        "code": "BN016",
+        "stock": 7
+    },
+    {
+        "id": 17,
+        "brand": "Citizen",
+        "description": "Citizen Promaster Diver",
+        "price": 300,
+        "thumbnail": "citizen_promaster_diver.jpg",
+        "code": "CPD017",
+        "stock": 20
+    },
+    {
+        "id": 18,
+        "brand": "Rolex",
+        "description": "Rolex Datejust",
+        "price": 10000,
+        "thumbnail": "rolex_datejust.jpg",
+        "code": "RD018",
+        "stock": 5
+    },
+    {
+        "id": 19,
+        "brand": "Seiko",
+        "description": "Seiko 5 Sports",
+        "price": 150,
+        "thumbnail": "seiko_5_sports.jpg",
+        "code": "S5S019",
+        "stock": 25
+    },
+    {
+        "id": 20,
+        "brand": "Citizen",
+        "description": "Citizen Chandler",
+        "price": 120,
+        "thumbnail": "citizen_chandler.jpg",
+        "code": "CC020",
+        "stock": 30
+    }
+]
